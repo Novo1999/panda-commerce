@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 25px;
 }
 .orange-bg{
     background-color:#fceae8;
@@ -19,4 +19,38 @@
     padding: 9px 25px;
     cursor: pointer;
     
+}
+.cat1{
+    background-image:linear-gradient(to right, #FF9F34, #FFD019);
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.cat2{
+    background-image: linear-gradient(to bottom,#FF5599, #FF1872 );
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.cat3{
+    background-image:linear-gradient(to bottom, #416DFE, #401DF9);
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.container .categories{
+    margin-top: 100px;
+}
+.shoe-button{
+    background-color: black;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 5px 10px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
 }
